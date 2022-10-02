@@ -12,23 +12,25 @@ We applied the knowledge we gained in object-oriented programming. The main thre
 - Administration Module.
 - Doctor Module.
 - Patient Module.
--All these modules will have login, add, view and deleting functionalities. Data will be handled by file handling.
+- All these modules will have login, add, view and deleting functionalities. Data will be handled by file handling.
 
 # Administrator Module:
-● Sign in to system
-● Add a Doctor
-● Add a Patient
-● Add an appointment
-● View all patient details
-● View all doctor details
-● View all appointment details ● Delete data
-2)Patient Module:
-● Sign in to system
-● Add an appointment
-● View appointments 3)Doctor Module:
-● Sign in to system
-● View patients
-● View appointments
+- Sign in to system
+- Add a Doctor
+- Add a Patient
+- Add an appointment
+- View all patient details
+- View all doctor details
+- View all appointment details
+-  Delete data
+
+# Patient Module:
+- Sign in to system
+- Add an appointment
+- View appointments 3)Doctor Module:
+- Sign in to system
+- View patients
+- View appointments
 
 # Specifications
 1. We have used different libraries for various purposes.
